@@ -1,0 +1,185 @@
+itemid,origin,label,LEVEL1,LEVEL2,mean,stdev,missing percent
+769,chartevents,alt,alanine aminotransferase,alanine aminotransferase,335.136549,984.8940386,99.33356172
+220644,chartevents,alt,alanine aminotransferase,alanine aminotransferase,281.0920128,907.0054864,99.33387976
+772,chartevents,albumin (>3.2),albumin,albumin,2.923178992,0.631902485,99.51034869
+227456,chartevents,albumin,albumin,albumin,3.075850116,0.656197516,99.58713358
+1521,chartevents,albumin,albumin,albumin,2.953373723,0.636234055,99.61752949
+225612,chartevents,alkaline phosphate,alkaline phosphate,alkaline phosphate,120.1163751,146.4889185,99.35073609
+773,chartevents,alk. phosphate,alkaline phosphate,alkaline phosphate,126.7235981,157.6099844,99.35423457
+227073,chartevents,anion gap,anion gap,anion gap,13.31489669,3.774265916,97.13269791
+770,chartevents,ast,asparate aminotransferase,asparate aminotransferase,404.2892782,1299.047767,99.33342541
+220587,chartevents,ast,asparate aminotransferase,asparate aminotransferase,347.409816,1239.891387,99.33347085
+227443,chartevents,hco3 (serum),bicarbonate (serum),bicarbonate,24.42982684,4.74946643,97.05868455
+225690,chartevents,total bilirubin,bilirubin (total),bilirubin,2.686172814,5.160533122,99.33115367
+848,chartevents,total bili (0-1.5),bilirubin (total),bilirubin,3.232037252,6.352632846,99.37309003
+1538,chartevents,total bili,bilirubin (total),bilirubin,3.29949329,6.43771072,99.50235216
+803,chartevents,direct bili (0-0.3),bilirubin (conjugated),bilirubin,3.201930654,4.881562377,99.94234318
+225651,chartevents,direct bilirubin,bilirubin (conjugated),bilirubin,3.023261391,4.265646314,99.94316101
+781,chartevents,bun (6-20),blood urea nitrogen,blood urea nitrogen,26.59446129,22.09455559,96.50792338
+225624,chartevents,bun,blood urea nitrogen,blood urea nitrogen,25.88001593,21.42597631,97.03346821
+1162,chartevents,bun,blood urea nitrogen,blood urea nitrogen,26.38955803,21.95630475,97.29530922
+786,chartevents,calcium (8.4-10.2),calcium,calcium,8.272538015,0.811434555,97.29980727
+225625,chartevents,calcium non-ionized,calcium non-ionized,calcium,8.333353742,2.897319448,97.47691228
+1522,chartevents,calcium,calcium,calcium,8.296089334,0.815792535,97.79468358
+816,chartevents,ionized calcium,calcium ionized,calcium ionized,1.454803349,7.258700267,97.43056874
+225667,chartevents,ionized calcium,calcium ionized,calcium ionized,1.137501854,0.898766652,98.50887388
+116,chartevents,cardiac index,cardiac index,cardiac index,2.868186533,0.841953032,96.451357
+89,chartevents,c.o. (fick),cardiac output fick,cardiac output fick,5.681524656,1.984365938,99.26559119
+90,chartevents,c.o.(thermodilution),cardiac output thermodilution,cardiac output thermodilution,5.683717102,1.868737938,96.95336659
+113,chartevents,cvp,central venous pressure,central venous pressure,10.63258033,5.414234987,86.38276856
+220074,chartevents,central venous pressure,central venous pressure,central venous pressure,13.71474094,27.77508548,93.96938782
+788,chartevents,chloride (100-112),chloride,chloride,105.6168539,6.14541006,96.55890128
+220602,chartevents,chloride (serum),chloride (serum),chloride,105.3458225,6.377004563,96.86713125
+1523,chartevents,chloride,chloride,chloride,105.7703257,6.17520648,97.32784056
+226536,chartevents,chloride (whole blood),chloride (whole blood),chloride,106.1526232,5.902115271,99.71421484
+789,chartevents,cholesterol (<200),cholesterol,cholesterol,161.7004324,49.12364077,99.92644099
+1524,chartevents,cholesterol,cholesterol,cholesterol,159.8178037,47.42536183,99.94538732
+220603,chartevents,cholesterol,cholesterol,cholesterol,160.0882353,52.0328429,99.95133928
+787,chartevents,carbon dioxide,co2,co2,24.10868798,4.803093299,96.56553476
+777,chartevents,arterial co2(calc),"co2 (etco2, pco2, etc.)","co2 (etco2, pco2, etc.)",25.18672697,5.287074996,95.78560024
+225698,chartevents,tco2 (calc) arterial,"co2 (etco2, pco2, etc.)","co2 (etco2, pco2, etc.)",25.19359657,5.174422891,97.59454309
+223679,chartevents,tco2 (calc) venous,"co2 (etco2, pco2, etc.)","co2 (etco2, pco2, etc.)",25.27614379,7.791976523,99.93048469
+857,chartevents,venous co2(calc),"co2 (etco2, pco2, etc.)","co2 (etco2, pco2, etc.)",25.79324056,8.234860617,99.95429255
+791,chartevents,creatinine (0-1.3),creatinine,creatinine,1.398509939,1.496155143,96.49088532
+220615,chartevents,creatinine,creatinine,creatinine,1.381308618,1.432130887,97.02070102
+1525,chartevents,creatinine,creatinine,creatinine,1.395167749,1.47181793,97.28426855
+8441,chartevents,nbp [diastolic],diastolic blood pressure (noninvasive),diastolic blood pressure,59.00310847,14.83020704,72.00423089
+8368,chartevents,arterial bp [diastolic],diastolic blood pressure (arterial),diastolic blood pressure,60.19914092,13.45001734,74.59724283
+220180,chartevents,non invasive blood pressure diastolic,diastolic blood pressure (noninvasive),diastolic blood pressure,63.59508799,14.96546019,75.11460939
+220051,chartevents,arterial blood pressure diastolic,diastolic blood pressure (arterial),diastolic blood pressure,60.3850338,13.42507863,86.96792391
+225310,chartevents,art bp diastolic,diastolic blood pressure (arterial),diastolic blood pressure,59.27203191,14.44998851,98.87412458
+8555,chartevents,arterial bp #2 [diastolic],diastolic blood pressure (arterial),diastolic blood pressure,57.41475929,12.63553163,99.73057138
+8440,chartevents,manual bp [diastolic],diastolic blood pressure (noninvasive),diastolic blood pressure,62.11327995,14.50379013,99.95461059
+224643,chartevents,manual blood pressure diastolic left,diastolic blood pressure (noninvasive),diastolic blood pressure,66.04010567,16.22124242,99.98423411
+806,chartevents,fibrinogen (150-400),fibrinogen,fibrinogen,300.5521067,178.4770107,99.66528151
+227468,chartevents,fibrinogen,fibrinogen,fibrinogen,288.7183806,177.5001174,99.71017113
+1528,chartevents,fibrinogen,fibrinogen,fibrinogen,298.4862065,177.5414037,99.71398766
+223835,chartevents,inspired o2 fraction,fraction inspired oxygen,fraction inspired oxygen,0.53347546,0.188985235,95.70890623
+189,chartevents,fio2 (analyzed),fraction inspired oxygen,fraction inspired oxygen,0.568271809,0.201653585,99.8313913
+727,chartevents,vision fio2,fraction inspired oxygen,fraction inspired oxygen,0.435597484,0.189043533,99.99277586
+190,chartevents,fio2 set,fraction inspired oxygen set,fraction inspired oxygen set,0.525066319,0.182146053,93.51322199
+198,chartevents,gcs total,glascow coma scale total,glascow coma scale total,12.49119524,3.586218763,82.83530687
+811,chartevents,glucose (70-105),glucose,glucose,135.8276651,53.77577466,93.23734163
+807,chartevents,fingerstick glucose,glucose,glucose,144.5400782,57.77352341,93.843397
+1529,chartevents,glucose,glucose,glucose,132.7714657,52.14488533,94.87903882
+225664,chartevents,glucose finger stick,glucose (finger stick),glucose,150.2282125,60.67695105,95.40149408
+220621,chartevents,glucose (serum),glucose (serum),glucose,136.1707688,61.49988821,97.06490913
+226537,chartevents,glucose (whole blood),glucose (whole blood),glucose,131.7894778,42.03276653,98.42363811
+211,chartevents,heart rate,heart rate,heart rate,85.11720533,17.14578929,48.41582332
+220045,chartevents,heart rate,heart rate,heart rate,84.77979403,17.43969038,61.99548014
+226730,chartevents,height (cm),height (cm),height,168.797962,13.85895759,99.65533128
+226707,chartevents,height,height,height,168.7977412,13.82883797,99.65533128
+1394,chartevents,height inches,height (in),height,167.64,17.96051224,99.99990913
+813,chartevents,hematocrit,hematocrit,hematocrit,30.71622255,4.92319266,94.85468574
+220545,chartevents,hematocrit (serum),hematocrit (serum),hematocrit,30.55060276,5.228418613,96.50874121
+814,chartevents,hemoglobin,hemoglobin,hemoglobin,10.62711388,1.724584199,96.57657543
+220228,chartevents,hemoglobin,hemoglobin,hemoglobin,10.47767731,1.850892334,97.2004867
+225668,chartevents,lactic acid,lactic acid,lactic acid,2.508662214,2.306900981,98.72786982
+818,chartevents,lactic acid(0.5-2.0),lactic acid,lactic acid,2.97550736,3.277799187,98.84254737
+1531,chartevents,lactic acid,lactic acid,lactic acid,2.89690939,3.232043387,98.99729844
+821,chartevents,magnesium (1.6-2.6),magnesium,magnesium,2.033241452,0.406071762,96.53522972
+220635,chartevents,magnesium,magnesium,magnesium,2.069528124,0.407958427,97.18172211
+1532,chartevents,magnesium,magnesium,magnesium,2.057996497,0.413665197,97.31057532
+456,chartevents,nbp mean,mean blood pressure (noninvasive),mean blood pressure,78.27484762,14.70098512,72.43122755
+52,chartevents,arterial bp mean,mean blood pressure (arterial),mean blood pressure,81.53031032,16.76166918,74.79583853
+220181,chartevents,non invasive blood pressure mean,mean blood pressure (noninvasive),mean blood pressure,77.18891678,15.00892899,74.93904916
+220052,chartevents,arterial blood pressure mean,mean blood pressure (arterial),mean blood pressure,81.13097726,18.64050493,86.91499232
+225312,chartevents,art bp mean,mean blood pressure (arterial),mean blood pressure,79.65383604,18.70728139,98.86917219
+224,chartevents,iabp mean,mean blood pressure (arterial),mean blood pressure,81.46706944,14.49083603,99.26218358
+6702,chartevents,arterial bp mean #2,mean blood pressure (arterial),mean blood pressure,76.85960301,13.50967037,99.73252508
+224322,chartevents,iabp mean,mean blood pressure (arterial),mean blood pressure,79.58123678,15.21568374,99.79231733
+646,chartevents,spo2,pulse oximetry,oxygen saturation,97.01037399,3.45338847,51.63374609
+220277,chartevents,o2 saturation pulseoxymetry,pulse oximetry,oxygen saturation,96.67304221,3.184367242,63.02507912
+834,chartevents,sao2,oxygen saturation,oxygen saturation,96.68015091,3.369028918,98.44817293
+220227,chartevents,arterial o2 saturation,oxygen saturation (arterial),oxygen saturation,96.10061857,4.109073849,99.2657275
+778,chartevents,arterial paco2,partial pressure of carbon dioxide (arterial),partial pressure of carbon dioxide,40.84872077,9.114166286,95.78882612
+220235,chartevents,arterial co2 pressure,partial pressure of carbon dioxide (arterial),partial pressure of carbon dioxide,41.15779402,9.434863928,97.59408875
+226062,chartevents,venous co2 pressure,partial pressure of carbon dioxide,partial pressure of carbon dioxide,44.57086871,13.42012343,99.93043925
+779,chartevents,arterial pao2,partial pressure of oxygen,partial pressure of oxygen,145.8220366,84.89126554,95.79586852
+825,chartevents,ptt(22-35),partial thromboplastin time,partial thromboplastin time,42.1014857,24.92408636,97.4110772
+1533,chartevents,ptt,partial thromboplastin time,partial thromboplastin time,41.44139221,24.26243544,98.00241168
+227466,chartevents,ptt,partial thromboplastin time,partial thromboplastin time,42.03303367,24.97250881,98.03248955
+224695,chartevents,peak insp. pressure,peak inspiratory pressure,peak inspiratory pressure,20.40891913,6.132278461,97.34592363
+535,chartevents,peak insp. pressure,peak inspiratory pressure,peak inspiratory pressure,25.31857667,6.144567138,97.457239
+780,chartevents,arterial ph,ph (arterial),ph,7.38323857,0.075564713,95.50749357
+1126,chartevents,art.ph,ph (arterial),ph,7.383119687,0.075192306,95.80450114
+223830,chartevents,ph (arterial),ph (arterial),ph,7.380746273,0.081311537,97.48758947
+860,chartevents,venous ph,ph (venous),ph,7.372199163,0.075879148,99.82593912
+220274,chartevents,ph (venous),ph (venous),ph,7.371491436,0.087040318,99.82757477
+827,chartevents,phosphorous(2.7-4.5),phosphorous,phosphorous,3.514159735,1.464568487,97.24610328
+225677,chartevents,phosphorous,phosphorous,phosphorous,3.408323304,1.359938731,97.47068771
+1534,chartevents,phosphorous,phosphorous,phosphorous,3.473976433,1.432579539,97.76724093
+543,chartevents,plateau pressure,plateau pressure,plateau pressure,20.72138981,6.003249751,97.96165663
+224696,chartevents,plateau pressure,plateau pressure,plateau pressure,19.30594478,4.997881594,98.90402071
+828,chartevents,platelets,platelets,platelets,196.8198987,108.8892593,96.53195841
+227457,chartevents,platelet count,platelets,platelets,203.9241552,113.7775478,97.20602975
+224700,chartevents,total peep level,positive end-expiratory pressure (total),positive end-expiratory pressure,7.364976207,3.463260792,99.35073609
+506,chartevents,peep set,positive end-expiratory pressure set,positive end-expiratory pressure set,6.159088139,2.922870557,95.60031695
+220339,chartevents,peep set,positive end-expiratory pressure set,positive end-expiratory pressure set,6.162566993,2.859692347,97.00170926
+512,chartevents,pvr,post void residual,post void residual,205.5797169,134.9887855,99.86037873
+829,chartevents,potassium (3.5-5.3),potassium,potassium,4.12624721,0.647294554,94.25894408
+1535,chartevents,potassium,potassium,potassium,4.114669914,0.639656391,95.7091334
+227464,chartevents,potassium (whole blood),potassium (whole blood),potassium,4.236190486,0.721084084,98.92133139
+227442,chartevents,potassium (serum),potassium (serum),potassium serum,4.090658294,0.873714792,96.78025983
+815,chartevents,inr (2-4 ref. range),prothrombin time,prothrombin time inr,1.527612022,1.321249565,97.55496935
+1530,chartevents,inr,prothrombin time,prothrombin time inr,1.520941556,1.21034637,98.1072753
+227467,chartevents,inr,prothrombin time,prothrombin time inr,1.50487456,0.887634942,98.14189665
+824,chartevents,pt(11-13.5),prothrombin time,prothrombin time pt,15.41269038,5.39494185,97.55578717
+1286,chartevents,pt,prothrombin time,prothrombin time pt,15.61437368,5.820295851,98.10772965
+227465,chartevents,prothrombin time,prothrombin time,prothrombin time pt,16.52679301,7.514544655,98.14194209
+491,chartevents,pap mean,pulmonary artery pressure mean,pulmonary artery pressure mean,29.59001122,9.286626776,96.91633719
+492,chartevents,pap [systolic],pulmonary artery pressure systolic,pulmonary artery pressure systolic,38.42374785,12.58973919,92.71520441
+220059,chartevents,pulmonary artery pressure systolic,pulmonary artery pressure systolic,pulmonary artery pressure systolic,37.02609127,11.13907185,97.69445431
+504,chartevents,pcwp,pulmonary capillary wedge pressure,pulmonary capillary wedge pressure,17.11269972,7.154823284,99.72966268
+833,chartevents,rbc,red blood cell count,red blood cell count,3.504754383,0.604565706,96.79966051
+618,chartevents,respiratory rate,respiratory rate,respiratory rate,19.35659068,5.721490438,49.91458249
+220210,chartevents,respiratory rate,respiratory rate,respiratory rate,19.24884123,5.520934157,62.2550494
+615,chartevents,resp rate (total),respiratory rate (total),respiratory rate,18.58615235,6.229763311,95.72290016
+614,chartevents,resp rate (spont),respiratory rate (spontaneous),respiratory rate,2.848259597,5.030844617,97.33501927
+224689,chartevents,respiratory rate (spontaneous),respiratory rate (spontaneous),respiratory rate,9.45299928,10.76797859,97.38113563
+224690,chartevents,respiratory rate (total),respiratory rate (total),respiratory rate,18.89331122,5.663158358,97.90336372
+651,chartevents,spon rr (mech.),respiratory rate (spontaneous),respiratory rate,22.33264553,7.321761402,99.65610367
+224422,chartevents,spont rr,respiratory rate (spontaneous),respiratory rate,20.75559874,6.91243451,99.75451554
+619,chartevents,respiratory rate set,respiratory rate set,respiratory rate set,14.91152617,5.719745146,97.1223842
+224688,chartevents,respiratory rate (set),respiratory rate set,respiratory rate set,16.76014531,10.6807719,98.2415807
+837,chartevents,sodium (135-148),sodium,sodium,138.8695149,5.113445698,96.09151304
+220645,chartevents,sodium (serum),sodium (serum),sodium,138.8406066,5.370440268,96.85890755
+1536,chartevents,sodium,sodium,sodium,138.9270348,5.084821898,96.98880576
+226534,chartevents,sodium (whole blood),sodium (whole blood),sodium,136.2199218,5.068031098,99.57754683
+626,chartevents,svr,systemic vascular resistance,systemic vascular resistance,996.5979019,354.7224768,96.59320458
+455,chartevents,nbp [systolic],systolic blood pressure (noninvasive),systolic blood pressure,121.2303976,22.03600658,71.97837847
+51,chartevents,arterial bp [systolic],systolic blood pressure (arterial),systolic blood pressure,122.4598422,24.38094575,74.59578892
+220179,chartevents,non invasive blood pressure systolic,systolic blood pressure (noninvasive),systolic blood pressure,121.0562638,21.44518667,75.10352329
+220050,chartevents,arterial blood pressure systolic,systolic blood pressure (arterial),systolic blood pressure,121.4906228,22.30167278,86.96406195
+225309,chartevents,art bp systolic,systolic blood pressure (arterial),systolic blood pressure,115.3035391,23.73939917,98.87335219
+6701,chartevents,arterial bp #2 [systolic],systolic blood pressure (arterial),systolic blood pressure,109.3032405,22.27312492,99.73052594
+442,chartevents,manual bp [systolic],systolic blood pressure (noninvasive),systolic blood pressure,120.3100543,24.74101201,99.95261146
+224167,chartevents,manual blood pressure systolic left,systolic blood pressure (noninvasive),systolic blood pressure,120.2045867,27.59010223,99.98332541
+227243,chartevents,manual blood pressure systolic right,systolic blood pressure (noninvasive),systolic blood pressure,123.689769,26.48095894,99.98623324
+678,chartevents,temperature f,temperature (f),temperature,36.94417538,0.795173397,87.3627527
+677,chartevents,temperature c (calc),temperature (c),temperature,36.94418599,0.795166808,87.362889
+223761,chartevents,temperature fahrenheit,temperature (f),temperature,36.84946552,0.744485352,90.31997034
+679,chartevents,temperature f (calc),temperature (f),temperature,37.24365068,0.738167631,94.11691476
+676,chartevents,temperature c,temperature (c),temperature,37.24364466,0.738169804,94.11691476
+223762,chartevents,temperature celsius,temperature (c),temperature,37.06008324,0.907762126,98.69515674
+682,chartevents,tidal volume (obser),tidal volume observed,tidal volume observed,575.1758166,124.7278945,97.22901978
+224685,chartevents,tidal volume (observed),tidal volume observed,tidal volume observed,504.8053748,2208.851954,97.26450439
+683,chartevents,tidal volume (set),tidal volume set,tidal volume set,565.2982436,129.7219871,97.34674146
+224684,chartevents,tidal volume (set),tidal volume set,tidal volume set,489.3945906,88.52825286,98.31105057
+684,chartevents,tidal volume (spont),tidal volume spontaneous,tidal volume spontaneous,457.2189469,194.0643736,98.18274257
+224686,chartevents,tidal volume (spontaneous),tidal volume spontaneous,tidal volume spontaneous,531.9146441,3355.639674,98.62500534
+849,chartevents,total protein(6.5-8),total protein,total protein,5.660992908,1.091160501,99.98078106
+1539,chartevents,total protein,total protein,total protein,5.656176471,1.096490822,99.98455215
+851,chartevents,troponin,troponin-i,troponin-i,7.669527675,10.68895256,99.93843579
+227429,chartevents,troponin-t,troponin-t,troponin-t,0.685114677,1.928694406,99.44928426
+859,chartevents,venous pvo2,venous pvo2,venous pvo2,43.87709205,14.87248798,99.95656429
+226531,chartevents,admission weight (lbs.),"weight (lbs, admission)",weight,80.71517796,23.36829894,98.85131629
+763,chartevents,daily weight,weight (daily),weight,84.26841476,22.98774383,99.18994218
+224639,chartevents,daily weight,weight (daily),weight,86.32265755,23.65570697,99.31366126
+226512,chartevents,admission weight (kg),"weight (kg, admission)",weight,80.77219623,22.47144631,99.33964999
+861,chartevents,"wbc (4-11,000)",white blood cell count,white blood cell count,12.24343953,9.996575277,96.77058221
+1127,chartevents,"wbc   (4-11,000)",white blood cell count,white blood cell count,12.24870492,10.16236246,96.92974047
+220546,chartevents,wbc,white blood cell count,white blood cell count,11.62355921,9.688906692,97.27917985
+1542,chartevents,wbc,white blood cell count,white blood cell count,12.18916949,10.41869356,97.49385948
+age,static,age,age,age,,,
+gender,static,gender,gender,gender,,,
