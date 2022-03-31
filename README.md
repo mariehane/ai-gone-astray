@@ -1,5 +1,5 @@
 # AI Gone Astray: Source Code
-This is the code for "AI Gone Astray: Technical Supplement", which investigates the effect of time drift on clinically deployed machine learning models. 
+This is the code for "[AI Gone Astray: Technical Supplement](https://arxiv.org/abs/2203.16452)", which investigates the effect of time drift on clinically deployed machine learning models. 
 
 We use MIMIC-IV, a publicly available dataset, to train models that replicate commercial approaches by Dascena and Epic to predict the onset of sepsis, a deadly and yet treatable condition. By doing so, we observe some of these models degrade overtime; most notably an RNN built on Epic features degrades from a 0.729 AUC to a 0.525 AUC over adecade, leading us to investigate technical and clinical drift as root causes of this performance drop.
 
@@ -57,9 +57,11 @@ We split the data into 60% train, 20% validation and 20% test data. For training
 ## Citing
 ```
 @misc{yang2022astray,
-      title={AI Gone Astray: Technical Supplement},
-      author={Janice Yang and Ludvig Karstens and Casey Ross and Adam Yala},
-      year={2022}
+      title = {AI Gone Astray: Technical Supplement},
+      author = {Janice Yang and Ludvig Karstens and Casey Ross and Adam Yala},
+      year = {2022}
+      url = {https://arxiv.org/abs/2203.16452},
+      doi = {10.48550/ARXIV.2203.16452},
 }
 ```
 
